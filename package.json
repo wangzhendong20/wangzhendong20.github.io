@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "wangzhendong",
     "scripts": {
-    "dev": "dev": "vuepress dev .vuepress",
+    "dev": "vuepress dev .vuepress",
     "build": "vuepress build .vuepress",
     "deploy": "bash deploy.sh"
   },
