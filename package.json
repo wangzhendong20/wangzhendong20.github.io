@@ -1,0 +1,15 @@
+{
+  "name": "webblog",
+  "version": "1.0.0",
+  "author": "wangzhendong",
+    "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": ""
+}
